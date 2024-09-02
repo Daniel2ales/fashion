@@ -1,5 +1,5 @@
 # FASHION
-Project with HTML, CSS, JAVASCRIPT
+Project with HTML, CSS, JAVASCRIPT and 100% Responsive
 
 APIs: Scroll Reveal
 
